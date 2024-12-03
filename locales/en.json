@@ -1,0 +1,18 @@
+{
+  "common.access": "Access",
+  "common.account": "Account",
+  "common.cancel": "Cancel",
+  "common.close": "Close",
+  "common.confirm": "Confirm",
+  "common.contains": "Contains",
+  "common.create": "Create",
+  "common.created": "Created",
+  "common.defaultRootFolderName": "Library",
+  "common.delete": "Delete",
+  "common.description": "Description",
+  "common.drop": "Drop",
+  "common.edit": "Edit",
+  "common.editDetails": "Edit details",
+  "common.embedCode": "Embed code",
+  "common.folder": "Folder"
+}
