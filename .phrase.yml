@@ -6,6 +6,12 @@ phrase:
     - file: ./locales/en.json
       params:
         locale_id: en
+    - file: ./locales/pl.json
+      params:
+        locale_id: pl
+    - file: ./locales/es.json
+      params:
+        locale_id: es
   pull:
     targets:
     - file: ./locales/en.json
