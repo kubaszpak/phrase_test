@@ -5,13 +5,12 @@ phrase:
     sources:
     - file: ./locales/en.json
       params:
+        file_format: react_simple_json
         locale_id: en
     - file: ./locales/pl.json
       params:
         locale_id: pl
-    - file: ./locales/es.json
-      params:
-        locale_id: es
+        file_format: react_simple_json
   pull:
     targets:
     - file: ./locales/en.json
