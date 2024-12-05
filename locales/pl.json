@@ -1,0 +1,19 @@
+{
+  "common.access": "dostęp",
+  "common.account": "konto",
+  "common.cancel": "anuluj",
+  "common.close": "zamknij",
+  "common.confirm": "potwierdź",
+  "common.contains": "zawiera",
+  "common.create": "utwórz",
+  "common.created": "stworzono",
+  "common.defaultRootFolderName": "projekty",
+  "common.delete": "zamknij",
+  "common.description": "opis",
+  "common.drop": "upuść",
+  "common.edit": "edytuj",
+  "common.editDetails": "edytuj szczegóły",
+  "common.embedCode": "osadź kod",
+  "common.folder": "folder",
+  "common.projects.test": "test"
+}
