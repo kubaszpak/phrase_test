@@ -2,7 +2,7 @@ phrase:
   project_id: "704089b8fd4c929aadbd38aa912439c9"
   file_format: react_simple_json
   push:
-    targets:
+    sources:
     - file: ./locales/en.json
       params:
         locale_id: en
